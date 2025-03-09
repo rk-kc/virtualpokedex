@@ -26,3 +26,7 @@ dist-ssr
 
 # GitHub specific files
 .github/
+
+# For the directory one level up
+../.github/
+../.github/**
