@@ -1,1 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Source%20Code%20Pro:700|Source%20Code%20Pro:400');
 @import "tailwindcss";
+
+@layer base {
+  html {
+    font-family: 'Source Code Pro', monospace;
+  }
+}
